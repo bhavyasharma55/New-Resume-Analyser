@@ -1,0 +1,1 @@
+Built an AI resume analyser (React 19, TypeScript, React Router v7 SSR, Tailwind, Zustand) that parses uploaded PDFs, scores them against a job description for ATS fit, and exports a tailored resume as PDF/DOCX — deployed via Docker with Puter.js for auth and AI.
